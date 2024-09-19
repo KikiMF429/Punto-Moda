@@ -1,0 +1,14 @@
+[
+    {
+        "nombre":"CAMISA LEVIS",
+        "precio":"24.900,00",
+        "src":"/imagenes/ropa/camisa_levis.jpeg"
+        
+    },
+    {
+        "nombre":"CAMISA PARIS",
+        "precio":"18.900,00",
+        "src":"/imagenes/ropa/camisa_paris.jpeg"
+        
+    }
+]
