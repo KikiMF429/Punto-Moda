@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Punto Moda</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="/style.css">
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -13,7 +13,7 @@
 </head>
 <body>
     <nav class="navbar">
-        <img src="imagenes/logo.png" class="logo"></img>
+        <img src="/imagenes/logo.png" class="logo"></img>
         <div class="navbar__box">
             <a href="/index.html">INICIO</a>
             <a href="/pages/productos.html">PRODUCTOS</a>
@@ -22,19 +22,14 @@
         </div>
     </nav>
 
-    <main class="index__main">
+    <main class="productos_main">
         <div>
-            <div class="inicio"></div>
+            <h1 class="productos_titulo__accesorios">Accesorios</h1>
         </div>
-        <div class="inicio__texto">
-            <p>
-                Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
-                when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-                It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. 
-                It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, 
-                and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-            </p>
+        <div class="productos_seccion">
+            <h1 class="productos_titulo__accesorios">Ropa</h1>
+            <script src="productos_ropa.js"></script>
+            <div class="item-container" id="item-container"></div>
         </div>
 
     </main>

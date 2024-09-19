@@ -39,7 +39,9 @@ a {
 
 body {
     background-color: #fbd5e5f1;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "Old Standard TT", serif;
+    font-weight: 400;
+    font-style: normal;
 }
 
 .inicio {
@@ -62,6 +64,10 @@ body {
     gap: 350px;
 }
 
+.productos_main {
+    padding: 10px;
+}
+
 .inicio__texto {
     width: 300px;
     font-size: 20px;
@@ -73,7 +79,47 @@ body {
     height: fit-content;
 }
 
+.productos_titulo__accesorios {
+    text-align: center;
+    justify-content: center;
+    
+}
+.productos_seccion {
+    justify-content: center;
+    padding-left: 40px;
+}
 
 
+.item-container {
+    padding: 10px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px; 
+    justify-content: center;
+    
+}
 
+.grid-item {
+    border: 1px solid black;
+    padding-left: 20px;
+    padding-top: 40px;
+    width: 450px;
+}
 
+.items_img__container {
+    background-color: #E5E5E5;
+    width: 400px;
+    text-align: center;
+}
+
+.items_img {
+    padding: 10px;
+    width: 400px;
+    margin: 0 auto;
+}
+
+.item_name {
+    font-size: 15px;
+    font-weight: 400;
+    padding: 5px;
+}
