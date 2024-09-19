@@ -1,31 +1,79 @@
-/* Globales */
 *::after,
 *::before,
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    color: #000000;
+    
+}
+
+.navbar {
+    background-color: #fbd5e5;
+    height: 150px;
+    display: flex;
+    padding-left: 7%;
+    mask-image: linear-gradient(
+        #ffffff 80%,
+        transparent
+    );
+    padding-top: 1%;
 
 }
-body{
-    margin: 0 auto;
-    max-width: 1200px;
+.navbar__box {
+    position: relative;
+    text-align: center;
+    justify-content: space-between;
+    align-items: center;
+    left: 10%;
+    padding: 2%;
+
+}
+
+a {
+    padding: 20px;
+    text-decoration: none;
+}
+
+
+
+body {
+    background-color: #fbd5e5f1;
     font-family: Arial, Helvetica, sans-serif;
-    color: #333;
 }
-.icon-cart{
-    width: 40px;
-    height: 40px;
- 
+
+.inicio {
+    min-width: 450px;
+    min-height: 600px;
+    box-shadow: 2px 2px 27px 6px #f097bc;
+    border-radius: 53px 130px 53px 115px;
+    background: url("imagenes/fashion-portrait-black-woman.jpg");
+    position: relative;
+    top: 10%;
 
 }
- img{
-    max-width: 100%;
 
- }
- /*Header*/
-  *header{
-       display: flex;
-       justify-content: space-between;
-       padding: 30px 0 40px 0;
-  }
+
+.index__main {
+    padding-top: 5%;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    gap: 350px;
+}
+
+.inicio__texto {
+    width: 300px;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.logo {
+    width: 350px;
+    height: fit-content;
+}
+
+
+
+
+
