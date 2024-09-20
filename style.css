@@ -10,14 +10,14 @@
 
 .navbar {
     background-color: #fbd5e5;
-    height: 150px;
+    height: 170px;
     display: flex;
-    padding-left: 7%;
+    padding-left: 10%;
     mask-image: linear-gradient(
         #ffffff 80%,
         transparent
     );
-    padding-top: 1%;
+    padding-top: 20px;
 
 }
 .navbar__box {
@@ -25,13 +25,13 @@
     text-align: center;
     justify-content: space-between;
     align-items: center;
-    left: 10%;
+    left: 15%;
     padding: 2%;
-
+    
 }
 
-a {
-    padding: 20px;
+.navbar__box a {
+    padding: 50px;
     text-decoration: none;
 }
 
@@ -40,20 +40,53 @@ a {
 body {
     background-color: #fbd5e5f1;
     font-family: "Old Standard TT", serif;
-    font-weight: 400;
-    font-style: normal;
 }
 
 .inicio {
-    min-width: 450px;
+    min-width: 550px;
     min-height: 600px;
     box-shadow: 2px 2px 27px 6px #f097bc;
     border-radius: 53px 130px 53px 115px;
     background: url("imagenes/fashion-portrait-black-woman.jpg");
     position: relative;
     top: 10%;
-
 }
+
+.sobre_nosotros__img {
+    min-width: 600px;
+    min-height: 450px;
+    box-shadow: 2px 2px 27px 6px #f097bc;
+    background: url("imagenes/image0.jpg");
+    background-size: contain;
+    position: relative;
+    top: 10%;
+}
+
+.sobre_nosotros__texto {
+    font-weight: 500;
+}
+
+.sobre_nosotros__texto h1 {
+    width: 600px;
+    font-size: 80px;
+    font-weight: 700;
+    padding-bottom: 50px ;
+}
+
+.sobre_nosotros__texto p {
+    width: 600px;
+    padding-top: 5px;
+
+    font-size: 22px;
+}
+
+.sobre_nosotros__texto h2 {
+    width: 600px;
+    padding-top: 30px;
+
+    font-size: 22px;
+}
+
 
 
 .index__main {
@@ -61,7 +94,7 @@ body {
     display: flex;
     justify-content: center;
     align-items:center;
-    gap: 350px;
+    gap: 300px;
 }
 
 .productos_main {
@@ -69,9 +102,20 @@ body {
 }
 
 .inicio__texto {
-    width: 300px;
-    font-size: 20px;
     font-weight: 500;
+}
+
+.inicio__texto h1 {
+    width: 600px;
+    font-size: 80px;
+    font-weight: 700;
+    padding-bottom: 50px ;
+}
+
+.inicio__texto p {
+    width: 500px;
+
+    font-size: 22px;
 }
 
 .logo {
@@ -114,7 +158,8 @@ body {
 
 .items_img {
     padding: 10px;
-    width: 400px;
+    max-width: 400px;
+    height: 500px;
     margin: 0 auto;
 }
 
