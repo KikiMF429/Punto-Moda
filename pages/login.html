@@ -20,26 +20,24 @@
             <a href="/pages/productos.html">PRODUCTOS</a>
             <a href="/pages/sobre_nosotros.html">SOBRE NOSOTROS</a>
             <a href="/pages/contacto.html">CONTACTO</a>
-            <a href="/pages/login.html">LOGIN</a>
         </div>
     </nav>
 
     <main class="index__main">
-        <div class="sobre_nosotros__texto">
-            <h1>¿Quiénes somos?</h1>
-            <p>Somos una boutique de ropa y accesorios para dama.
-                Nuestra mercadería viene importada de Estados Unidos.</p>
-            <h2>Visión</h2>
-            <p>Convertirnos en la boutique de ropa líder , reconocida por ofrecer moda de alta calidad, estilos únicos y un servicio al cliente excepcional.</p>
-            <h2>Misión</h2>
-            <p>Ofrecer a nuestros clientes una amplia variedad de ropa de moda de alta calidad.</p>
+        <div class="login_container">
+            <h1>LOGIN</h1>
+            <div class="login_container__inputs">
+                
+                <input type="text" id="username" class="login_username__input" placeholder="Username"></input>
+                <input type="password" id="password" class="login_password__input" placeholder="Password"></input>
+                <h3 id="message"></h3>
+                <button class="login_button" onclick="login()">Login</button>
+            
+            </div>
         </div>
-        <div>
-            <div class="sobre_nosotros__img"></div>
-        </div>
-
     </main>
 
-</head>
+</body>
+<script src="auth.js"></script>
 
 </html> 
