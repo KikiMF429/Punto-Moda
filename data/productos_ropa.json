@@ -1,0 +1,246 @@
+[
+    {
+        "nombre":"CAMISA LEVIS",
+        "precio":"24.900,00",
+        "src":"/imagenes/ropa/camisa_levis.jpeg"
+        
+    },
+
+    {
+        "nombre":"CAMISA PARIS",
+        "precio":"18.900,00",
+        "src":"/imagenes/ropa/camisa_paris.jpeg"
+        
+    },
+
+{
+    "nombre":"VESTIDO DE FLORES",
+    "precio":"23.900,00",
+    "src":"/imagenes/ropa/vestido_flores.jpeg"
+    
+},
+{
+    "nombre":"JEANS",
+    "precio":"23.900,00",
+    "src":"/imagenes/ropa/pantalon_mezclilla_azul.jpeg"
+    
+
+    
+},
+
+
+{
+    "nombre":"BLUSA DE TIRANTES BLANCA",
+    "precio":"17.900,00",
+    "src":"/imagenes/ropa/BLUSA_blanca.jpeg"
+    
+
+},
+
+{
+    "nombre":"VESTIDO DE COLOR CORAL",
+    "precio":"15.900,00",
+    "src":"/imagenes/ropa/Vestido_coral.jpeg"
+    
+},
+
+{
+    "nombre":"CONJUNTO COLOR BEIGE",
+    "precio":"30.900,00",
+    "src":"/imagenes/ropa/Conjunto.jpg"
+    
+},
+
+{
+    "nombre":"BLUSA MANGA LARGA COLOR VERDE",
+    "precio":"21.900,00",
+    "src":"/imagenes/ropa/Blusa_verde.jpg"
+    
+},
+
+{
+    "nombre":"CONJUNTO BLANCO",
+    "precio":"32.900,00",
+    "src":"/imagenes/ropa/Conjunto_blanco.jpg"
+    
+},
+
+{
+    "nombre":"VESTIDO ANIMAL PRINT",
+    "precio":"18.900,00",
+    "src":"/imagenes/ropa/Vestido_animalprint.jpg"
+    
+},
+
+{
+    "nombre":"BLUSA BLANCA DE PUNTITOS-CHAVITO ROJO",
+    "precio":"18.900,00-10.000,00",
+    "src":"/imagenes/ropa/blusayshort.jpg"
+    
+},
+{
+    "nombre":"BLUSA AZUL DE PUNTITOS-CHAVITO BLANCO",
+    "precio":"17.900,00-15.000,00",
+    "src":"/imagenes/ropa/blusachavito.jpg"
+    
+},
+{
+    "nombre":"BLUSA CON MANGA CORTA BLANCA",
+    "precio":"18.900,00",
+    "src":"/imagenes/ropa/CAMISABLANCA.jpg"
+    
+},
+{
+    "nombre":"BLUSA AZUL",
+    "precio":"17.900,00",
+    "src":"/imagenes/ropa/BLUSA_AZUL.jpg"
+    
+},
+{
+    "nombre":"BLUSA COLOR FUCSIA",
+    "precio":"18.900,00",
+    "src":"/imagenes/ropa/BLUSA_FUCSIA.jpg"
+    
+    
+},
+{
+    "nombre":"ENTERIZO COLOR ROJO VINO",
+    "precio":"20.900,00",
+    "src":"/imagenes/ropa/ENTRIZO_ROJOVINO.jpg"
+    
+    
+},
+{
+    "nombre":"JEANS ",
+    "precio":"24.900,00",
+    "src":"/imagenes/ropa/JEANS.jpg"
+    
+    
+},
+{
+    "nombre":"PANTALON  ",
+    "precio":"20.900,00",
+    "src":"/imagenes/ropa/pantalon_de_palmeras.jpg"
+    
+    
+},
+
+{
+    "nombre":"PANTALON GRIS ",
+    "precio":"30.900,00",
+    "src":"/imagenes/ropa/pantalon_gris.jpg"
+    
+    
+},
+{
+    "nombre":"VESTIDO COLOR MOSTAZA ",
+    "precio":"22.900,00",
+    "src":"/imagenes/ropa/VESTIDO_MOSTAZA.jpg"
+    
+    
+},
+{
+    "nombre":"BLUSA COLOR CORAL ",
+    "precio":"19.900,00",
+    "src":"/imagenes/ropa/Blusa_coral.jpg"
+    
+    
+},
+{
+    "nombre":" PANTALON COLOR MOSTAZA ",
+    "precio":"28.900,00",
+    "src":"/imagenes/ropa/pantalon_moztasa.jpg"
+    
+    
+},
+{
+    "nombre":"JEANS ",
+    "precio":"25.900,00",
+    "src":"/imagenes/ropa/JEANS_2.jpg"
+    
+    
+},
+{
+    "nombre":"SHORTS DE MEZCLILLA ",
+    "precio":"22.900,00",
+    "src":"/imagenes/ropa/SHORTS_DE_MEZCLILLA.jpg"
+    
+    
+},
+{
+    "nombre":"VESTIDO COLOR FUCSIA ",
+    "precio":"23.900,00",
+    "src":"/imagenes/ropa/VESTIDO_COLOR_FUCSIA.jpg"
+    
+    
+},
+{
+    "nombre":"BLUSA COLOR VERDE MENTA ",
+    "precio":"17.900,00",
+    "src":"/imagenes/ropa/VESTIDO_COLOR_VERDE_MENTA.jpg"
+    
+    
+},
+{
+    "nombre":"VESTIDO DE FLORES AMARILLO ",
+    "precio":"19.900,00",
+    "src":"/imagenes/ropa/VESTIDO_DE_FLORES_AMARILLO.jpg"
+    
+    
+},
+{
+    "nombre":"VESTIDO LARGO ANIMAL PRINT ",
+    "precio":"30.900,00",
+    "src":"/imagenes/ropa/VESTIDO_LARGO_ANIMAL_PRINT.jpg"
+    
+    
+},
+
+{
+    "nombre":"ENTERIZO AZUL",
+    "precio":"30.900,00",
+    "src":"/imagenes/ropa/camisa_roja_chavito_blanco.jpg"
+    
+    
+},
+{
+    "nombre":"BLUSA MANGA LARGA CORAL",
+    "precio":"21.900,00",
+    "src":"/imagenes/ropa/blusa_manga_larga_coral.jpg"
+    
+    
+},
+{
+    "nombre":"VESTIDO ROJO CON PUNTOS BLANCOS",
+    "precio":"23.900,00",
+    "src":"/imagenes/ropa/vestido_rojos_puntitos_blancos.jpg"
+    
+    
+},
+
+{
+    "nombre":"BLUSA Y PALAZO",
+    "precio":"18.900,00-28.000.00",
+    "src":"/imagenes/ropa/BLUSA_PALAZO.jpg"
+    
+    
+},
+{
+    "nombre":"ENTERIZO AMARILLO",
+    "precio":"23.900,00",
+    "src":"/imagenes/ropa/ENTERIZOAMARILLO.jpg"
+    
+    
+},
+{
+    "nombre":"PALAZO",
+    "precio":"20.900,00",
+    "src":"/imagenes/ropa/PALAZO.jpg"
+    
+    
+}
+
+]
+
+    
+

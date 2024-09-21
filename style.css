@@ -1,0 +1,235 @@
+*::after,
+*::before,
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #000000;
+    
+}
+
+.navbar {
+    background-color: #fbd5e5;
+    height: 170px;
+    display: flex;
+    padding-left: 10%;
+    mask-image: linear-gradient(
+        #ffffff 80%,
+        transparent
+    );
+    padding-top: 20px;
+
+}
+.navbar__box {
+    position: relative;
+    text-align: center;
+    justify-content: space-between;
+    align-items: center;
+    left: 15%;
+    padding: 2%;
+    
+}
+
+.navbar__box a {
+    padding: 50px;
+    text-decoration: none;
+}
+
+
+
+body {
+    background-color: #fbd5e5f1;
+    font-family: "Old Standard TT", serif;
+}
+
+.inicio {
+    min-width: 550px;
+    min-height: 600px;
+    box-shadow: 2px 2px 27px 6px #f097bc;
+    border-radius: 53px 130px 53px 115px;
+    background: url("imagenes/fashion-portrait-black-woman.jpg");
+    position: relative;
+    top: 10%;
+}
+
+.sobre_nosotros__img {
+    min-width: 600px;
+    min-height: 450px;
+    box-shadow: 2px 2px 27px 6px #f097bc;
+    background: url("imagenes/image0.jpg");
+    background-size: contain;
+    position: relative;
+    top: 10%;
+}
+
+
+
+.contacto__img {
+    min-width: 700px;
+    min-height: 450px;
+    box-shadow: 2px 2px 27px 6px #f097bc;
+    border-radius: 10px;
+    background: url("imagenes/main_fashion-website-design-cover.webp");
+    background-size: cover;
+    position: relative;
+    top: 10%;
+}
+
+.sobre_nosotros__texto {
+    font-weight: 500;
+}
+
+.sobre_nosotros__texto h1 {
+    width: 600px;
+    font-size: 80px;
+    font-weight: 700;
+    padding-bottom: 50px ;
+}
+
+.sobre_nosotros__texto p {
+    width: 600px;
+    padding-top: 5px;
+
+    font-size: 22px;
+}
+
+.sobre_nosotros__texto h2 {
+    width: 600px;
+    padding-top: 30px;
+
+    font-size: 22px;
+}
+
+
+
+.index__main {
+    padding-top: 5%;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    gap: 300px;
+}
+
+.productos_main {
+    padding: 10px;
+}
+
+.inicio__texto {
+    font-weight: 500;
+}
+
+.inicio__texto h1 {
+    width: 600px;
+    font-size: 80px;
+    font-weight: 700;
+    padding-bottom: 50px ;
+}
+
+.inicio__texto p {
+    width: 500px;
+
+    font-size: 22px;
+}
+
+.logo {
+    width: 350px;
+    height: fit-content;
+}
+
+.productos_titulo__accesorios {
+    text-align: center;
+    justify-content: center;
+    
+}
+.productos_seccion {
+    justify-content: center;
+    padding-left: 40px;
+    padding-top: 50px;
+
+}
+
+.productos_seccion_acc {
+    justify-content: center;
+    padding-left: 40px;
+    padding-top: 20px;
+}
+
+
+
+.item-container {
+    padding: 10px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px; 
+    justify-content: center;
+    
+}
+
+.item-container_acc {
+    padding: 10px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px; 
+    justify-content: center;
+    
+}
+
+.grid-item {
+    border: 1px solid black;
+    padding-left: 20px;
+    padding-top: 40px;
+    width: 450px;
+}
+
+.items_img__container {
+    background-color: #E5E5E5;
+    width: 400px;
+    text-align: center;
+}
+
+.items_img {
+    padding: 10px;
+    max-width: 400px;
+    height: 500px;
+    margin: 0 auto;
+}
+
+.item_name {
+    font-size: 15px;
+    font-weight: 400;
+    padding: 5px;
+}
+
+.login_container {
+    width: 500px;
+    height: 500px;
+    background-color: #eb9ac038;
+    border-radius: 5px;
+    text-align: center;
+    align-items: center;
+    padding: 100px;
+
+}
+
+.login_container__inputs {
+    justify-content: center;
+    margin-top: 60px;
+}
+
+.login_container__inputs input {
+    text-align: center;
+    width: 300px;
+    height: 50px;
+    margin-top: 20px;
+    font-family: "Old Standard TT", serif;
+    font-size: 16px;
+}
+
+.login_button {
+    margin-top: 50px;
+    width: 100px;
+    height: 40px;
+    font-size: 16px;
+    font-family: "Old Standard TT", serif;
+    cursor: pointer;
+}
