@@ -144,10 +144,28 @@ body {
 .productos_seccion {
     justify-content: center;
     padding-left: 40px;
+    padding-top: 50px;
+
+}
+
+.productos_seccion_acc {
+    justify-content: center;
+    padding-left: 40px;
+    padding-top: 20px;
 }
 
 
+
 .item-container {
+    padding: 10px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px; 
+    justify-content: center;
+    
+}
+
+.item-container_acc {
     padding: 10px;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
