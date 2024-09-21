@@ -62,6 +62,19 @@ body {
     top: 10%;
 }
 
+
+
+.contacto__img {
+    min-width: 700px;
+    min-height: 450px;
+    box-shadow: 2px 2px 27px 6px #f097bc;
+    border-radius: 10px;
+    background: url("imagenes/main_fashion-website-design-cover.webp");
+    background-size: cover;
+    position: relative;
+    top: 10%;
+}
+
 .sobre_nosotros__texto {
     font-weight: 500;
 }
