@@ -8,8 +8,9 @@
     
 }
 
+/* Esto es la barra de tareas */
 .navbar {
-    background-color: #fbd5e5;
+    background-color: #EC008C; /* esto es el color*/
     height: 170px;
     display: flex;
     padding-left: 10%;
@@ -36,10 +37,9 @@
     text-decoration: none;
 }
 
-
-
+/* esto es el cuerpo*/
 body {
-    background-color: #fbd5e5f1;
+    background-color: #EC008C; /* esto es el color*/
     font-family: "Old Standard TT", serif;
 }
 
@@ -98,8 +98,6 @@ body {
 
     font-size: 22px;
 }
-
-
 
 .index__main {
     padding-top: 5%;
